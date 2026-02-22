@@ -3,5 +3,15 @@ Boycotted Restaurants Community Application
 Workflow 1
 
 Workflow 2
+Personalization for Restaurant Exploration
+
+This workflow focuses on the user  experience of making informed decisions while utilizing personalized features to save time.
+
+1. The user lands on the main dashboard which would have a search bar and filters like boycott status, location, etc for convenient browsing.
+2. The user selects a Restaurant Card to view specific boycotted products used by that restaurant and whether they are flagged as avoidable. 
+3. The user adds the restaurant to their Favourites tab for quick future access.
+4. The system creates a record in the Favourites tab which remains permanently.
+5. The user may unfavourite a restaurant as well.
+6. The filters would apply to favourites as well.
 
 Workflow 3
