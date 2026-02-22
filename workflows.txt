@@ -1,6 +1,17 @@
 Boycotted Restaurants Community Application
 
 Workflow 1
+Boycott Status Reporting and Verification
+
+This workflow ensures the reliability of the directory through reporting and verification of boycott statuses of restaurants by the users.
+
+1. There would be 2 types of users: general user and admin. The user would log in.
+2. The landing page would be a restaurant directory. 
+3. The user can click on any restaurant card to view restaurant details.
+4. The user can click on ‘Report’ if the current boycott status of the restaurant is inaccurate. 
+5. They would be prompted to inform about the type of boycott and submit Evidence.
+6. Types of boycott statuses would include: Clean, Complete and Partial (Partial would mean the restaurant is not on the BDS list but still uses boycotted products like Pepsi, for example).
+7. The admin user would have an Admin Dashboard to view pending submissions and approve or reject them according to the evidence submitted. This would update the status in real time permanently in the database.
 
 Workflow 2
 
