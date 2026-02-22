@@ -26,3 +26,10 @@ This workflow focuses on the user  experience of making informed decisions while
 6. The filters would apply to favourites as well.
 
 Workflow 3
+Reviews and Feedbacks
+This workflow manages the community's preferences through reviews.
+
+1. After visiting a restaurant, a logged-in user submits a review consisting of a 1–5 star rating and feedback. 
+2. This rating will be recorded and the average rating will be displayed up to date.
+3. Moderation: If a review is flagged, the Admin can hide or show review from the admin dashboard.
+4. According to the Admin’s action, the reviews would update in real time.
